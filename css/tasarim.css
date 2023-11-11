@@ -1,0 +1,49 @@
+/********** General ****************/
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/*********** Body *****************/
+body {
+    background-image: url('https://png.pngtree.com/background/20230618/original/pngtree-halloween-wallpapers-and-backgrounds-for-laptop-or-desktop-picture-image_3712599.jpg');
+    background-color: #D4D925;
+    font-family: Arial, sans-serif;    
+}
+
+/******** Header ****************/
+h1 {
+    color: #FFEE63;
+}
+/******* Article Content *******/
+article {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px #D4D925;
+}
+
+/******* İmage ************/
+img {
+    height: 300px;
+}
+
+/****** Footer ***********/
+footer {
+    background-color: white;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+p{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px #D4D925;
+}
